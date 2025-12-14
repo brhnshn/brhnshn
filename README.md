@@ -12,7 +12,7 @@ Web teknolojileri üzerine yoğunlaşan, **ASP.NET Core** ekosisteminde projeler
 | **Backend** | C#, ASP.NET Core MVC, |
 | **Veritabanı (Database)** | MS SQL Server, Entity Framework Core |
 | **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
-| **Araçlar** | Git, GitHub, Visual Studio, Postman |
+| **Araçlar** | Git, GitHub, Visual Studio |
 
 
 ### 📊 GitHub Analizi

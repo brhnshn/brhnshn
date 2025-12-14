@@ -14,12 +14,6 @@ Web teknolojileri üzerine yoğunlaşan, **ASP.NET Core** ekosisteminde projeler
 | **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
 | **Araçlar** | Git, GitHub, Visual Studio, Postman |
 
----
-
-### 🚀 Öne Çıkan Projeler
-
-Geliştirdiğim projelerde **CRUD işlemleri**, **yetkilendirme** ve **veritabanı yönetimi** konularına odaklanıyorum.
-
 
 ### 📊 GitHub Analizi
 

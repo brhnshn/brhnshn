@@ -28,4 +28,4 @@ Web teknolojileri üzerine yoğunlaşan, **ASP.NET Core** ekosisteminde projeler
 
 - **LinkedIn:** [linkedin.com/in/brhnshn](https://www.linkedin.com/in/brhnshn)
 - **Web Sitesi:** [burhansahin.com.tr](https://burhansahin.com.tr)
-- **Email:** [mailto:contact@burhansahin.com.tr](mailto:contact@burhansahin.com.tr)
+- **Email:** [mailto:contact@burhansahin.com.tr](mailto:sahinburhan501@gmail.com)

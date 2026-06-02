@@ -6,9 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;.NET+Developer" alt="Typing SVG" />
 
   <p align="center">
-    <!-- 100% Çalışan Sayısal Ziyaretçi Sayacı -->
-    Ziyaret Sayısı: <br>
-    <img src="https://profile-counter.glitch.me/brhnshn/count.svg" alt="Ziyaretçi Sayacı" />
+    <!-- Mavi Rozet Sayaç -->
+    <img src="https://komarev.com/normal-badge.png?username=brhnshn&label=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1&color=0078d4&style=flat-square" alt="Ziyaretçi Sayacı" />
   </p>
 
   <p align="center">
@@ -44,17 +43,7 @@
   
   ---
 
-  ### 📊 GitHub İstatistikleri
 
-  <!-- 100% Çalışan Aktif İstatistik Kartları -->
-  <p align="center">
-    <img src="https://github-stats-alpha.vercel.app/api?username=brhnshn&theme=dark" height="150" alt="stats" />
-    <br><br>
-    <!-- Gelişmiş Aktivite Grafiği (Çok Şık Durur) -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=brhnshn&theme=github-dark&bg_color=121212&hide_border=true" width="80%" alt="Aktivite Grafiği" />
-  </p>
-
-  ---
 
   ### 🌐 Bana Ulaşın
 

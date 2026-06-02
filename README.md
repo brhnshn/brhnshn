@@ -6,8 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;.NET+Developer" alt="Typing SVG" />
 
   <p align="center">
-    <!-- Kararlı ve Sorunsuz Çalışan Sayaç -->
-    <img src="https://komarev.com/normal-badge.png?username=brhnshn&label=Ziyaretci%20Sayisi&color=0078d4&style=flat-square" alt="Ziyaretçi Sayacı" />
+    <!-- 100% Çalışan Sayısal Ziyaretçi Sayacı -->
+    Ziyaret Sayısı: <br>
+    <img src="https://profile-counter.glitch.me/brhnshn/count.svg" alt="Ziyaretçi Sayacı" />
   </p>
 
   <p align="center">
@@ -45,11 +46,12 @@
 
   ### 📊 GitHub İstatistikleri
 
-  <!-- Önbellek Temizlemeli İstatistik Kartları -->
+  <!-- 100% Çalışan Aktif İstatistik Kartları -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=brhnshn&show_icons=true&theme=dark&hide_border=true&locale=tr&cache=bypass" height="150" alt="stats" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brhnshn&layout=compact&theme=dark&hide_border=true&locale=tr&cache=bypass" height="150" alt="languages" />
+    <img src="https://github-stats-alpha.vercel.app/api?username=brhnshn&theme=dark" height="150" alt="stats" />
+    <br><br>
+    <!-- Gelişmiş Aktivite Grafiği (Çok Şık Durur) -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=brhnshn&theme=github-dark&bg_color=121212&hide_border=true" width="80%" alt="Aktivite Grafiği" />
   </p>
 
   ---

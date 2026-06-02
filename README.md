@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;.NET+Developer" alt="Typing SVG" />
 
   <p align="center">
-    <!-- Güvenilir ve Şık Sayaç -->
-    <img src="https://img.shields.io/github/visitors/brhnshn/brhnshn?color=0078d4&label=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1&style=flat-square" alt="Ziyaretçi Sayacı" />
+    <!-- Kararlı ve Sorunsuz Çalışan Sayaç -->
+    <img src="https://komarev.com/normal-badge.png?username=brhnshn&label=Ziyaretci%20Sayisi&color=0078d4&style=flat-square" alt="Ziyaretçi Sayacı" />
   </p>
 
   <p align="center">
@@ -19,9 +19,10 @@
 
   ### 🛠️ Teknolojik Yetkinlikler
 
-  <!-- Teknolojiler Grubu: Siyah ve Minimalist Stil -->
+  <!-- Teknolojiler Grubu -->
   
-  **Backend & Database**<br>
+  **Backend & Database**
+  
   ![C#](https://img.shields.io/badge/C%23-171717?style=flat&logo=csharp&logoColor=239120)
   ![.NET](https://img.shields.io/badge/.NET-171717?style=flat&logo=.net&logoColor=512BD4)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-171717?style=flat&logo=dotnet&logoColor=512BD4)
@@ -31,7 +32,8 @@
 
   <br>
 
-  **Frontend & Tools**<br>
+  **Frontend & Tools**
+  
   ![HTML5](https://img.shields.io/badge/HTML5-171717?style=flat&logo=html5&logoColor=E34F26)
   ![CSS3](https://img.shields.io/badge/CSS3-171717?style=flat&logo=css3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -43,11 +45,11 @@
 
   ### 📊 GitHub İstatistikleri
 
-  <!-- İstatistik Kartları (Hizalı ve Uyumlu Tema) -->
+  <!-- Önbellek Temizlemeli İstatistik Kartları -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=brhnshn&show_icons=true&theme=dark&hide_border=true&locale=tr" height="150" alt="stats" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brhnshn&layout=compact&theme=dark&hide_border=true&locale=tr" height="150" alt="languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=brhnshn&show_icons=true&theme=dark&hide_border=true&locale=tr&cache=bypass" height="150" alt="stats" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brhnshn&layout=compact&theme=dark&hide_border=true&locale=tr&cache=bypass" height="150" alt="languages" />
   </p>
 
   ---

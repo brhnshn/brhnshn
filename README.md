@@ -4,9 +4,6 @@
 <!-- Seçenek 1: Anton Komarev Sayacı (En Popüler) -->
 <img src="https://komarev.com/ghpvc/?username=brhnshn&color=0078d4&style=flat-square" alt="Ziyaretçi Sayacı" />
 
-<!-- Seçenek 2 (Eğer Seçenek 1'i beğenmezseniz bunu kullanabilirsiniz): 
-<img src="https://api.visitorbadge.io/api/VisitorHit?user=brhnshn&repo=brhnshn&countColor=%230078d4" alt="Ziyaretçi Sayacı" />
--->
 
 <br>
 

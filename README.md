@@ -1,54 +1,63 @@
-# Merhaba, Ben Burhan Şahin 👋
-### Frontend | Backend Developer
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/normal-badge.png?username=brhnshn&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenmesi&color=0078d4&style=flat-square" alt="Ziyaretçi Sayacı" />
-</p>
+  # Merhaba, Ben Burhan Şahin 👋
+  
+  <!-- Daktilo Yazı Efekti Başlık -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;.NET+Developer" alt="Typing SVG" />
 
-Web teknolojileri üzerine yoğunlaşan, **ASP.NET Core** ekosisteminde projeler geliştiren bir yazılımcıyım. Veritabanı tasarımı, RESTful API mimarileri ve temiz kod prensipleri (Clean Code/SOLID) konularında kendimi sürekli geliştirmeye ve modern standartlarda uygulamalar üretmeye özen gösteriyorum.
+  <p align="center">
+    <!-- Güvenilir ve Şık Sayaç -->
+    <img src="https://img.shields.io/github/visitors/brhnshn/brhnshn?color=0078d4&label=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1&style=flat-square" alt="Ziyaretçi Sayacı" />
+  </p>
 
----
+  <p align="center">
+    Web teknolojileri üzerine yoğunlaşan, <b>ASP.NET Core</b> ekosisteminde projeler geliştiren bir yazılımcıyım.<br>
+    Veritabanı tasarımı, backend mimarisi ve temiz kod prensipleri üzerine çalışıyorum.
+  </p>
 
-### 🛠️ Teknolojiler & Yetkinlikler
+  ---
 
-#### 💻 Backend
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-0078d4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ### 🛠️ Teknolojik Yetkinlikler
 
-#### 🗄️ Veritabanı & ORM
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  <!-- Teknolojiler Grubu: Siyah ve Minimalist Stil -->
+  
+  **Backend & Database**<br>
+  ![C#](https://img.shields.io/badge/C%23-171717?style=flat&logo=csharp&logoColor=239120)
+  ![.NET](https://img.shields.io/badge/.NET-171717?style=flat&logo=.net&logoColor=512BD4)
+  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-171717?style=flat&logo=dotnet&logoColor=512BD4)
+  ![EF Core](https://img.shields.io/badge/EF%20Core-171717?style=flat&logo=dotnet&logoColor=white)
+  ![MS SQL](https://img.shields.io/badge/MS%20SQL-171717?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=flat&logo=postgresql&logoColor=4169E1)
 
-#### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <br>
 
-#### ⚙️ Araçlar & Sürüm Kontrolü
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  **Frontend & Tools**<br>
+  ![HTML5](https://img.shields.io/badge/HTML5-171717?style=flat&logo=html5&logoColor=E34F26)
+  ![CSS3](https://img.shields.io/badge/CSS3-171717?style=flat&logo=css3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat&logo=javascript&logoColor=F7DF1E)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-171717?style=flat&logo=bootstrap&logoColor=7952B3)
+  ![Git](https://img.shields.io/badge/Git-171717?style=flat&logo=git&logoColor=F05033)
+  ![Docker](https://img.shields.io/badge/Docker-171717?style=flat&logo=docker&logoColor=2496ED)
+  
+  ---
 
----
+  ### 📊 GitHub İstatistikleri
 
-### 📊 GitHub İstatistikleri
+  <!-- İstatistik Kartları (Hizalı ve Uyumlu Tema) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=brhnshn&show_icons=true&theme=dark&hide_border=true&locale=tr" height="150" alt="stats" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brhnshn&layout=compact&theme=dark&hide_border=true&locale=tr" height="150" alt="languages" />
+  </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brhnshn&show_icons=true&theme=radical&hide_border=true&locale=tr" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brhnshn&layout=compact&theme=radical&hide_border=true&locale=tr" height="150" alt="languages" />
-</p>
+  ---
 
----
+  ### 🌐 Bana Ulaşın
 
-### 🌐 İletişim & Sosyal Medya
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhan-sahin)
+  &nbsp;&nbsp;
+  [![Web Sitesi](https://img.shields.io/badge/Web%20Sitesi-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://burhansahin.com.tr)
+  &nbsp;&nbsp;
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahinburhan501@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhan-sahin)
-[![Web Sitesi](https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://burhansahin.com.tr)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahinburhan501@gmail.com)
+</div>

@@ -33,8 +33,8 @@ Web teknolojileri üzerine yoğunlaşan, **ASP.NET Core** ekosisteminde projeler
 
 ### 🌐 Bana Ulaşın
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhan-sahin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://go.burhansahin.com.tr/linkedin)
 &nbsp;&nbsp;
-[![Web Sitesi](https://img.shields.io/badge/Web%20Sitesi-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://burhansahin.com.tr)
+[![Web Sitesi](https://img.shields.io/badge/Web%20Sitesi-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://go.burhansahin.com.tr/burhan)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahinburhan501@gmail.com)

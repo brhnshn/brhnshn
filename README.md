@@ -22,7 +22,7 @@ C# ve .NET ile backend, TypeScript ve React ile arayüz yazıyorum. En çok az k
 
 ### Diğer projeler
 
-<p>
+<p align="center">
   <a href="https://github.com/brhnshn/ApiHub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/apihub-koyu.svg"><img src="assets/gorseller/apihub-acik.svg" alt="ApiHub: Tek Linux sunucuda Docker, domain, SSL, PostgreSQL ve e-postayı tek panelden yönetir." width="410"></picture></a>
   <a href="https://github.com/brhnshn/gokkalkan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/gokkalkan-koyu.svg"><img src="assets/gorseller/gokkalkan-acik.svg" alt="Gökkalkan: Hava, tarım, denizcilik ve deprem için bölgesel erken uyarı radarı." width="410"></picture></a>
   <a href="https://github.com/brhnshn/AulaTray"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/aulatray-koyu.svg"><img src="assets/gorseller/aulatray-acik.svg" alt="AulaTray: AULA kablosuz klavyeler için Windows sistem tepsisi pil izleyicisi." width="410"></picture></a>

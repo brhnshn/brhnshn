@@ -1,40 +1,52 @@
-# Merhaba, Ben Burhan Şahin 👋
-### Frontend | Backend Developer
+<a href="https://burhansahin.com.tr/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/kahraman-koyu.svg">
+    <img src="assets/gorseller/kahraman-acik.svg" alt="Burhan Şahin, full-stack geliştirici. Arka planda son 12 ayın katkı takvimi." width="100%">
+  </picture>
+</a>
 
-<!-- Seçenek 1: Anton Komarev Sayacı (En Popüler) -->
-<img src="https://komarev.com/ghpvc/?username=brhnshn&color=0078d4&style=flat-square" alt="Ziyaretçi Sayacı" />
+C# ve .NET ile backend, TypeScript ve React ile arayüz yazıyorum. En çok az kaynakla çalışan, kurması kolay ve kendi sunucunda barınan araçlar yapmayı seviyorum.
 
+### Öne çıkan proje
 
-<br>
+<a href="https://github.com/brhnshn/corvus">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/corvus-koyu.svg">
+    <img src="assets/gorseller/corvus-acik.svg" alt="Corvus: Homelab ve VPS filoları için kendi sunucunda çalışan kontrol paneli. .NET 9 Native AOT, React, SQLite." width="100%">
+  </picture>
+</a>
 
-Web teknolojileri üzerine yoğunlaşan, **ASP.NET Core** ekosisteminde projeler geliştiren bir yazılımcıyım. Veritabanı tasarımı, backend mimarisi ve temiz kod prensipleri üzerine çalışıyorum.
+<a href="https://demo.usecorvus.me">
+  <img src="https://raw.githubusercontent.com/brhnshn/corvus/main/.github/assets/corvus-demo.gif" alt="Corvus panelinde kontrol paneli, konteynerler, uptime ve durum sayfası ekranları" width="100%">
+</a>
 
----
+### Diğer projeler
 
-### 🛠️ Teknolojik Yetkinlikler
+<p>
+  <a href="https://github.com/brhnshn/ApiHub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/apihub-koyu.svg"><img src="assets/gorseller/apihub-acik.svg" alt="ApiHub: Tek Linux sunucuda Docker, domain, SSL, PostgreSQL ve e-postayı tek panelden yönetir." width="410"></picture></a>
+  <a href="https://github.com/brhnshn/gokkalkan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/gokkalkan-koyu.svg"><img src="assets/gorseller/gokkalkan-acik.svg" alt="Gökkalkan: Hava, tarım, denizcilik ve deprem için bölgesel erken uyarı radarı." width="410"></picture></a>
+  <a href="https://github.com/brhnshn/AulaTray"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/aulatray-koyu.svg"><img src="assets/gorseller/aulatray-acik.svg" alt="AulaTray: AULA kablosuz klavyeler için Windows sistem tepsisi pil izleyicisi." width="410"></picture></a>
+  <a href="https://github.com/brhnshn/NetPulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/netpulse-koyu.svg"><img src="assets/gorseller/netpulse-acik.svg" alt="NetPulse: Mikro kesintileri yakalayıp HMAC imzalı kanıt raporu üreten ağ izleyici." width="410"></picture></a>
+  <a href="https://github.com/brhnshn/GoBurhan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/goburhan-koyu.svg"><img src="assets/gorseller/goburhan-acik.svg" alt="GoBurhan: Redis önbellekli, analitikli ve Telegram botlu link kısaltıcı." width="410"></picture></a>
+  <a href="https://github.com/brhnshn/QRMenu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/qrmenu-koyu.svg"><img src="assets/gorseller/qrmenu-acik.svg" alt="QRMenu: Restoran ve kafeler için gerçek zamanlı QR sipariş ve otomasyon sistemi." width="410"></picture></a>
+</p>
 
-#### **Backend & Database**
-![C#](https://img.shields.io/badge/C%23-171717?style=flat&logo=csharp&logoColor=239120)
-![.NET](https://img.shields.io/badge/.NET-171717?style=flat&logo=.net&logoColor=512BD4)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-171717?style=flat&logo=dotnet&logoColor=512BD4)
-![EF Core](https://img.shields.io/badge/EF%20Core-171717?style=flat&logo=dotnet&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS%20SQL-171717?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=flat&logo=postgresql&logoColor=4169E1)
+### Kullandığım teknolojiler
 
-#### **Frontend & Tools**
-![HTML5](https://img.shields.io/badge/HTML5-171717?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-171717?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-171717?style=flat&logo=bootstrap&logoColor=7952B3)
-![Git](https://img.shields.io/badge/Git-171717?style=flat&logo=git&logoColor=F05033)
-![Docker](https://img.shields.io/badge/Docker-171717?style=flat&logo=docker&logoColor=2496ED)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/yigin-koyu.svg">
+  <img src="assets/gorseller/yigin-acik.svg" alt="Backend: .NET ve C#, PostgreSQL, SQLite, Redis, Python. Frontend: TypeScript, React, Tailwind, Vite, Astro. Altyapı: Docker, Nginx, Cloudflare, Linux, GitHub Actions." width="100%">
+</picture>
 
----
+### Rakamlarla
 
-### 🌐 Bana Ulaşın
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/istatistik-koyu.svg">
+  <img src="assets/gorseller/istatistik-acik.svg" alt="Son 12 ayın katkı özeti ve açık kaynak depolardaki dil dağılımı. Her gün GitHub verisinden yeniden üretilir." width="100%">
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhan-sahin/)
-&nbsp;&nbsp;
-[![Web Sitesi](https://img.shields.io/badge/Web%20Sitesi-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://burhansahin.com.tr/)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahinburhan501@gmail.com)
+### İletişim
+
+[burhansahin.com.tr](https://burhansahin.com.tr/) · [LinkedIn](https://www.linkedin.com/in/burhan-sahin/) · [E-posta](mailto:sahinburhan501@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=brhnshn&color=6e7681&style=flat-square&label=profil+g%C3%B6r%C3%BCnt%C3%BClenme" alt="Profil görüntülenme sayısı">

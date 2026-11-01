@@ -2,7 +2,7 @@
 import re
 from pathlib import Path
 
-from icerik import CORVUS, CORVUS_LOGO, CORVUS_OLGULAR, YIGIN, Proje, Tema
+from icerik import CORVUS, CORVUS_LOGO, CORVUS_OLGULAR, YIGIN, Iletisim, Proje, Tema
 from metin import genislik, sar, yol
 from veri import Profil
 
@@ -158,6 +158,20 @@ def corvus_karti(yildiz: int, tema: Tema) -> str:
     for olgu in (CORVUS.yigin, *CORVUS_OLGULAR):
         govde.append(yol(olgu, olgu_x, yuksek - 26, 14, tema.metin, "mono"))
         olgu_x += genislik(olgu, 14, "mono") + 26
+    return _svg(genis, yuksek, "".join(govde))
+
+
+def iletisim_karti(kart: Iletisim, tema: Tema) -> str:
+    genis, yuksek, ic = 272, 92, 20
+    hucre = 4
+    ikon_boyut = len(kart.piksel) * (hucre + 1) - 1
+    metin_x = ic + ikon_boyut + 16
+    govde = [
+        _cerceve(genis, yuksek, tema),
+        _piksel(kart.piksel, ic, (yuksek - ikon_boyut) / 2, hucre, tema),
+        yol(kart.ad, metin_x, 42, 18, tema.metin, "sans-kalin", aralik=-0.2),
+        yol(kart.deger, metin_x, 64, 11.5, tema.soluk, "mono"),
+    ]
     return _svg(genis, yuksek, "".join(govde))
 
 

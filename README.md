@@ -47,6 +47,10 @@ C# ve .NET ile backend, TypeScript ve React ile arayüz yazıyorum. En çok az k
 
 ### İletişim
 
-[burhansahin.com.tr](https://burhansahin.com.tr/) · [LinkedIn](https://www.linkedin.com/in/burhan-sahin/) · [E-posta](mailto:sahinburhan501@gmail.com)
+<p align="center">
+  <a href="https://burhansahin.com.tr/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/iletisim-site-koyu.svg"><img src="assets/gorseller/iletisim-site-acik.svg" alt="Web sitesi: burhansahin.com.tr" width="272"></picture></a>
+  <a href="https://www.linkedin.com/in/burhan-sahin/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/iletisim-linkedin-koyu.svg"><img src="assets/gorseller/iletisim-linkedin-acik.svg" alt="LinkedIn: burhan-sahin" width="272"></picture></a>
+  <a href="mailto:sahinburhan501@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/iletisim-eposta-koyu.svg"><img src="assets/gorseller/iletisim-eposta-acik.svg" alt="E-posta: sahinburhan501@gmail.com" width="272"></picture></a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=brhnshn&color=6e7681&style=flat-square&label=profil+g%C3%B6r%C3%BCnt%C3%BClenme" alt="Profil görüntülenme sayısı">

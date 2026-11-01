@@ -173,6 +173,65 @@ PROJELER = (
     ),
 )
 
+@dataclass(frozen=True)
+class Iletisim:
+    dosya: str
+    ad: str
+    deger: str
+    piksel: tuple[str, ...]
+
+
+ILETISIM = (
+    Iletisim(
+        dosya="iletisim-site",
+        ad="Web sitesi",
+        deger="burhansahin.com.tr",
+        piksel=(
+            "..#####..",
+            ".#..#..#.",
+            "#..+#+..#",
+            "#..+#+..#",
+            "#########",
+            "#..+#+..#",
+            "#..+#+..#",
+            ".#..#..#.",
+            "..#####..",
+        ),
+    ),
+    Iletisim(
+        dosya="iletisim-linkedin",
+        ad="LinkedIn",
+        deger="in/burhan-sahin",
+        piksel=(
+            "#########",
+            "##.######",
+            "#########",
+            "##.#...##",
+            "##.#.#.##",
+            "##.#.#.##",
+            "##.#.#.##",
+            "##.#.#.##",
+            "#########",
+        ),
+    ),
+    Iletisim(
+        dosya="iletisim-eposta",
+        ad="E-posta",
+        deger="sahinburhan501@gmail.com",
+        piksel=(
+            ".........",
+            "#########",
+            "##+++++##",
+            "#.##+##.#",
+            "#..###..#",
+            "#...#...#",
+            "#.......#",
+            "#########",
+            ".........",
+        ),
+    ),
+)
+
 YIGIN = (
     ("Backend", (("dotnet", ".NET / C#"), ("postgresql", "PostgreSQL"), ("sqlite", "SQLite"), ("redis", "Redis"), ("python", "Python"))),
     ("Frontend", (("typescript", "TypeScript"), ("react", "React"), ("tailwindcss", "Tailwind"), ("vite", "Vite"), ("astro", "Astro"))),

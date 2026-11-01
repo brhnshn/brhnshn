@@ -3,6 +3,7 @@
 ## [Yayınlanmadı]
 
 ### Eklenenler
+- Web sitesi, LinkedIn ve e-posta için iletişim kartları.
 - Son 12 ayın gerçek katkı takvimi üzerine kurulu animasyonlu giriş görseli; koyu ve açık temada proje, teknoloji ve istatistik kartları.
 - Görselleri canlı GitHub verisinden her gün yeniden üreten GitHub Actions işi.
 

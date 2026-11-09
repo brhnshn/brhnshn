@@ -56,9 +56,29 @@ CORVUS = Proje(
     depo="corvus",
     aciklama="Homelab ve VPS filoları için kendi sunucunda çalışan kontrol paneli: Docker, uptime, SSL ve herkese açık durum sayfası.",
     yigin=".NET 9 Native AOT · React · SQLite",
-    piksel=(),
+    piksel=(
+        "..#####..",
+        ".##......",
+        "##.......",
+        "##.......",
+        "##+......",
+        "##.......",
+        "##.......",
+        ".##......",
+        "..#####..",
+    ),
 )
 CORVUS_OLGULAR = ("Tek konteyner", "30 MB altı RAM")
+
+KOY = Proje(
+    dosya="koy",
+    ad="Koy",
+    depo="koy",
+    aciklama="Windows 11 için hafif, tarayıcısız, yay animasyonlu Notch ve akıllı masaüstü Dock'u.",
+    yigin="C# · .NET 10 · WPF",
+    piksel=(),
+)
+KOY_OLGULAR = ("Windows 11 · x64", "GPL v3")
 CORVUS_LOGO = (
     "M128 20L196 59.27L246 88.13L174 116L164 98.68L128 77.9L76 107.92L76 148.08"
     "L128 178.1L164 157.32L198 176.95L128 217.4L34 163.14L34 74.86ZM148 62L168 73.55L148 82Z"
@@ -83,24 +103,7 @@ PROJELER = (
             "..#####..",
         ),
     ),
-    Proje(
-        dosya="gokkalkan",
-        ad="Gökkalkan",
-        depo="gokkalkan",
-        aciklama="Hava, tarım, denizcilik ve deprem için bölgesel erken uyarı radarı. PWA olarak çalışır.",
-        yigin="TypeScript · React · Hono · Leaflet",
-        piksel=(
-            "#########",
-            "#########",
-            "##+++++##",
-            "##+++++##",
-            "##+++++##",
-            ".##+++##.",
-            ".##+++##.",
-            "..#####..",
-            "....#....",
-        ),
-    ),
+    CORVUS,
     Proje(
         dosya="aulatray",
         ad="AulaTray",

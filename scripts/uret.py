@@ -2,7 +2,7 @@
 from pathlib import Path
 
 import cizim
-from icerik import CORVUS, ILETISIM, PROJELER, TEMALAR
+from icerik import ILETISIM, KOY, KOY_OLGULAR, PROJELER, TEMALAR
 from veri import profil_getir
 
 CIKTI = Path(__file__).resolve().parent.parent / "assets" / "gorseller"
@@ -20,8 +20,10 @@ def main() -> None:
         yaz(f"istatistik-{tema.ad}.svg", cizim.istatistik(profil, tema))
         yaz(f"yigin-{tema.ad}.svg", cizim.yigin(tema))
         yaz(
-            f"corvus-{tema.ad}.svg",
-            cizim.corvus_karti(profil.yildizlar.get(CORVUS.depo, 0), tema),
+            f"koy-{tema.ad}.svg",
+            cizim.one_cikan_karti(
+                KOY, cizim.koy_logo(), KOY_OLGULAR, profil.yildizlar.get(KOY.depo, 0), tema
+            ),
         )
         for kart in ILETISIM:
             yaz(f"{kart.dosya}-{tema.ad}.svg", cizim.iletisim_karti(kart, tema))

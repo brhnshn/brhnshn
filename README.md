@@ -9,22 +9,22 @@ C# ve .NET ile backend, TypeScript ve React ile arayüz yazıyorum. En çok az k
 
 ### Öne çıkan proje
 
-<a href="https://github.com/brhnshn/corvus">
+<a href="https://github.com/koyhq/koy">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/corvus-koyu.svg">
-    <img src="assets/gorseller/corvus-acik.svg" alt="Corvus: Homelab ve VPS filoları için kendi sunucunda çalışan kontrol paneli. .NET 9 Native AOT, React, SQLite." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/koy-koyu.svg">
+    <img src="assets/gorseller/koy-acik.svg" alt="Koy: Windows 11 için hafif, tarayıcısız, yay animasyonlu Notch ve akıllı masaüstü Dock'u. C# · .NET 10 · WPF." width="100%">
   </picture>
 </a>
 
-<a href="https://demo.usecorvus.me">
-  <img src="https://raw.githubusercontent.com/brhnshn/corvus/main/.github/assets/corvus-demo.gif" alt="Corvus panelinde kontrol paneli, konteynerler, uptime ve durum sayfası ekranları" width="100%">
+<a href="https://koyhq.github.io/koy">
+  <img src="https://raw.githubusercontent.com/koyhq/koy/main/docs/screenshots/centik-ana.png" alt="Koy çentiğinin açık ana paneli: çalan müzik, kulaklık pili, sistem ve ağ, hızlı başlatma" width="100%">
 </a>
 
 ### Diğer projeler
 
 <p align="center">
   <a href="https://github.com/brhnshn/ApiHub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/apihub-koyu.svg"><img src="assets/gorseller/apihub-acik.svg" alt="ApiHub: Tek Linux sunucuda Docker, domain, SSL, PostgreSQL ve e-postayı tek panelden yönetir." width="410"></picture></a>
-  <a href="https://github.com/brhnshn/gokkalkan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/gokkalkan-koyu.svg"><img src="assets/gorseller/gokkalkan-acik.svg" alt="Gökkalkan: Hava, tarım, denizcilik ve deprem için bölgesel erken uyarı radarı." width="410"></picture></a>
+  <a href="https://github.com/brhnshn/corvus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/corvus-koyu.svg"><img src="assets/gorseller/corvus-acik.svg" alt="Corvus: Homelab ve VPS filoları için kendi sunucunda çalışan kontrol paneli: Docker, uptime, SSL ve herkese açık durum sayfası." width="410"></picture></a>
   <a href="https://github.com/brhnshn/AulaTray"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/aulatray-koyu.svg"><img src="assets/gorseller/aulatray-acik.svg" alt="AulaTray: AULA kablosuz klavyeler için Windows sistem tepsisi pil izleyicisi." width="410"></picture></a>
   <a href="https://github.com/brhnshn/NetPulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/netpulse-koyu.svg"><img src="assets/gorseller/netpulse-acik.svg" alt="NetPulse: Mikro kesintileri yakalayıp HMAC imzalı kanıt raporu üreten ağ izleyici." width="410"></picture></a>
   <a href="https://github.com/brhnshn/GoBurhan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/goburhan-koyu.svg"><img src="assets/gorseller/goburhan-acik.svg" alt="GoBurhan: Redis önbellekli, analitikli ve Telegram botlu link kısaltıcı." width="410"></picture></a>

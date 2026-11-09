@@ -2,7 +2,7 @@
 import re
 from pathlib import Path
 
-from icerik import CORVUS, CORVUS_LOGO, CORVUS_OLGULAR, YIGIN, Iletisim, Proje, Tema
+from icerik import CORVUS_LOGO, YIGIN, Iletisim, Proje, Tema
 from metin import genislik, sar, yol
 from veri import Profil
 
@@ -138,24 +138,38 @@ def proje_karti(proje: Proje, yildiz: int, tema: Tema) -> str:
     return _svg(genis, yuksek, "".join(govde))
 
 
-def corvus_karti(yildiz: int, tema: Tema) -> str:
+def corvus_logo(tema: Tema) -> str:
+    return f'<path fill-rule="evenodd" fill="{tema.vurgu}" d="{CORVUS_LOGO}"/>'
+
+
+def koy_logo() -> str:
+    # Koy marka logosu (assets/branding/koy-symbol-flat.svg, 256 birim): marka mavisi, sabit renkler.
+    return (
+        '<rect x="32" y="32" width="192" height="192" rx="48" fill="#2563EB"/>'
+        '<path fill="#93C5FD" d="M88 32C94 44 104 54 116 54H140C152 54 162 44 168 32Z"/>'
+        '<rect x="76" y="82" width="30" height="108" rx="15" fill="#FFFFFF"/>'
+        '<path fill="#FFFFFF" d="M106 136L148 88C154 82 164 81 170 87C176 93 176 102 170 107'
+        'L134 143L170 179C176 184 176 193 170 199C164 205 154 204 148 198L106 148Z"/>'
+    )
+
+
+def one_cikan_karti(proje: Proje, logo: str, olgular: tuple[str, ...], yildiz: int, tema: Tema) -> str:
     genis, yuksek, ic = 826, 226, 32
-    logo = 150
-    logo_x = genis - ic - logo + 8
+    logo_boyut = 150
+    logo_x = genis - ic - logo_boyut + 8
     metin_genis = logo_x - ic - 32
-    ad_genis = genislik(CORVUS.ad, 42, "sans-kalin", -0.9)
+    ad_genis = genislik(proje.ad, 42, "sans-kalin", -0.9)
     govde = [
         _cerceve(genis, yuksek, tema),
         yol("Şu an üzerinde çalıştığım", ic, 48, 15, tema.vurgu, "mono"),
-        yol(CORVUS.ad, ic, 96, 42, tema.metin, "sans-kalin", aralik=-0.9),
+        yol(proje.ad, ic, 96, 42, tema.metin, "sans-kalin", aralik=-0.9),
         _yildiz(yildiz, ic + ad_genis + 58, 94, 15, tema),
-        f'<path transform="translate({logo_x} 38) scale({logo / 256:.4f})" '
-        f'fill="{tema.vurgu}" fill-rule="evenodd" d="{CORVUS_LOGO}"/>',
+        f'<g transform="translate({logo_x} 38) scale({logo_boyut / 256:.4f})">{logo}</g>',
     ]
-    for sira, satir in enumerate(sar(CORVUS.aciklama, 18, metin_genis)):
+    for sira, satir in enumerate(sar(proje.aciklama, 18, metin_genis)):
         govde.append(yol(satir, ic, 132 + sira * 27, 18, tema.soluk))
     olgu_x = float(ic)
-    for olgu in (CORVUS.yigin, *CORVUS_OLGULAR):
+    for olgu in (proje.yigin, *olgular):
         govde.append(yol(olgu, olgu_x, yuksek - 26, 14, tema.metin, "mono"))
         olgu_x += genislik(olgu, 14, "mono") + 26
     return _svg(genis, yuksek, "".join(govde))

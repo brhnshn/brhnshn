@@ -17,8 +17,13 @@ C# ve .NET ile backend, TypeScript ve React ile arayüz yazıyorum. En çok az k
 </a>
 
 <a href="https://koyhq.github.io/koy">
-  <img src="https://raw.githubusercontent.com/koyhq/koy/main/docs/screenshots/centik-ana.png" alt="Koy çentiğinin açık ana paneli: çalan müzik, kulaklık pili, sistem ve ağ, hızlı başlatma" width="100%">
+  <img src="https://raw.githubusercontent.com/koyhq/koy/main/docs/screenshots/koy-tanitim.gif?v=20261121" alt="Koy tanıtımı: çentik yayla açılır, Takvim ve Kontrol Merkezi, Raf, dock" width="100%">
 </a>
+
+<p>
+  <a href="https://koyhq.github.io/koy"><img src="https://raw.githubusercontent.com/koyhq/koy/main/docs/screenshots/koy-muzik.gif?v=20261121" alt="Koy müzik sayfası: açılış, ayna dalga, parça geçişi, plak modu, eşzamanlı sözler" width="49%"></a>
+  <a href="https://koyhq.github.io/koy"><img src="https://raw.githubusercontent.com/koyhq/koy/main/docs/screenshots/centik-ana.png?v=20261121" alt="Koy çentiğinin açık ana paneli: tarih ve hava, etkinlikler, odak, kulaklık pili, sistem ve ağ, hızlı başlatma" width="49%"></a>
+</p>
 
 ### Diğer projeler
 

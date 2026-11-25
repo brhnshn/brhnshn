@@ -27,6 +27,9 @@ query($login: String!) {
       }
     }
   }
+  koy: repository(owner: "koyhq", name: "koy") {
+    stargazerCount
+  }
 }
 """
 
@@ -54,7 +57,7 @@ def _graphql() -> dict:
         sonuc = json.load(yanit)
     if sonuc.get("errors"):
         raise RuntimeError(sonuc["errors"])
-    return sonuc["data"]["user"]
+    return sonuc["data"]
 
 
 def _en_uzun_seri(gunler: list[int]) -> int:
@@ -81,7 +84,8 @@ def _dil_paylari(depolar: list[dict]) -> list[tuple[str, float]]:
 
 
 def profil_getir() -> Profil:
-    kullanici = _graphql()
+    veri = _graphql()
+    kullanici = veri["user"]
     takvim = kullanici["contributionsCollection"]["contributionCalendar"]
     haftalar = [
         [gun["contributionCount"] for gun in hafta["contributionDays"]]
@@ -89,12 +93,15 @@ def profil_getir() -> Profil:
     ]
     gunler = [sayi for hafta in haftalar for sayi in hafta]
     depolar = kullanici["repositories"]["nodes"]
+    yildizlar = {depo["name"]: depo["stargazerCount"] for depo in depolar}
+    if veri.get("koy"):
+        yildizlar["koy"] = veri["koy"]["stargazerCount"]
     return Profil(
         haftalar=haftalar,
         toplam_katki=takvim["totalContributions"],
         aktif_gun=sum(1 for sayi in gunler if sayi),
         en_uzun_seri=_en_uzun_seri(gunler),
         depo_sayisi=kullanici["repositories"]["totalCount"],
-        yildizlar={depo["name"]: depo["stargazerCount"] for depo in depolar},
+        yildizlar=yildizlar,
         diller=_dil_paylari(depolar),
     )

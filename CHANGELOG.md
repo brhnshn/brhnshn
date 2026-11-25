@@ -8,4 +8,5 @@
 - Daily GitHub Actions job that regenerates the visuals from live GitHub data.
 
 ### Changed
-- README rewritten around current projects (Corvus and others) and the current stack.
+- Redesigned the profile README UI/UX, color palette (slate & sky-cyan bento system), card layouts, 3-column tech stack, and stacked language chart.
+- Removed ApiHub and GoBurhan; added agy-context-studio and moved Koy into the 6-card project grid.

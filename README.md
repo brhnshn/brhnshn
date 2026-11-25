@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://burhansahin.com.tr/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/iletisim-site-koyu.svg"><img src="assets/gorseller/iletisim-site-acik.svg" alt="Web sitesi: burhansahin.com.tr" width="272"></picture></a>
   <a href="https://www.linkedin.com/in/burhan-sahin/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/iletisim-linkedin-koyu.svg"><img src="assets/gorseller/iletisim-linkedin-acik.svg" alt="LinkedIn: burhan-sahin" width="272"></picture></a>
-  <a href="mailto:sahinburhan501@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/iletisim-eposta-koyu.svg"><img src="assets/gorseller/iletisim-eposta-acik.svg" alt="E-posta: sahinburhan501@gmail.com" width="272"></picture></a>
+  <a href="mailto:me@burhansahin.com.tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gorseller/iletisim-eposta-koyu.svg"><img src="assets/gorseller/iletisim-eposta-acik.svg" alt="E-posta: me@burhansahin.com.tr" width="272"></picture></a>
 </p>
 
 <p align="center">

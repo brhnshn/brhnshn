@@ -197,7 +197,7 @@ ILETISIM = (
     Iletisim(
         dosya="iletisim-eposta",
         ad="E-posta",
-        deger="sahinburhan501@gmail.com",
+        deger="me@burhansahin.com.tr",
         ikon="eposta",
     ),
 )
